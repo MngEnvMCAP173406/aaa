@@ -5,7 +5,7 @@ on: [push]
 
 permissions:
   id-token: write
-  contents: read
+#  contents: read
       
 jobs: 
   Windows-latest:
